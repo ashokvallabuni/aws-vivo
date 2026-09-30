@@ -1,0 +1,24 @@
+{
+  "name": "viva-world",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.1",
+    "lucide-react": "^0.468.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.3",
+    "@types/react": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}
